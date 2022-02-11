@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prajwal111299
 - 👀 I’m interested in computer science and technology
 - 🌱 I’m currently learning Bachelors of technology in Computer science
-- 💞️ I’m looking to collaborate on Projects and courses
+- 💞️ I’m looking to collaborate on Projects and Researches
 - 📫 How to reach me - prajwalkumar111299@gmail.com
 - twitter - @prajwal_ku
 - kaggle - @prajwal111299
