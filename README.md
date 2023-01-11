@@ -5,7 +5,7 @@
 - 📫 How to reach me - prajwalkumar111299@gmail.com
 - ⌨️ kaggle - @prajwal111299
 - 📸 Instagram - @iprajwal_ku
-- My Medium - https://medium.com/@prajwalkumar111299
+- Ⓜ️ Medium - https://medium.com/@prajwalkumar111299
 <!---
 Prajwal111299/Prajwal111299 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
