@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prajwal111299
-- 👀 I’m interested in AI & Data Science
+- 👀 I’m interested in AI & Analytics
 - 🌱 I’m currently learning Bachelors of technology in Computer science
 - 💞️ I’m looking to collaborate on Projects and Researches
 - 📫 How to reach me - prajwalkumar111299@gmail.com
