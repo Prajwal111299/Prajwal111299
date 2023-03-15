@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Bachelors of technology in Computer science
 - 💞️ I’m looking to collaborate on Projects and Researches
 - 📫 How to reach me - prajwalkumar111299@gmail.com
-- ⌨️ kaggle - @prajwal111299
+- 👨🏽‍💻 LinkedIn - https://www.linkedin.com/in/prajwal-kumar-aaa24721b/
+- ⌨️ kaggle - https://www.kaggle.com/prajwal111299
 - 📸 Instagram - @iprajwal_ku
 - Ⓜ️ Medium - https://medium.com/@prajwalkumar111299
 <!---
