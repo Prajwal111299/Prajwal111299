@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Prajwal111299
-- 👀 I’m interested in Data Science & Analytics
-- 🌱 I’m currently learning Bachelors of technology in Computer science
-- 💞️ I’m looking to collaborate on Projects and Researches
+- 👀 I’m interested in Data Science & Analytics opportunities
+- 🏛️ I’m currently working as a Junior Data Scientist @ Zummit Infolabs
+- 💞️ I’m looking to connect on Projects and Research opportunities
+- 🌆 My current location is New Delhi, India
 - 📫 How to reach me - prajwalkumar111299@gmail.com
 - 👨🏽‍💻 LinkedIn - https://www.linkedin.com/in/prajwal-kumar-aaa24721b/
 - ⌨️ kaggle - https://www.kaggle.com/prajwal111299
