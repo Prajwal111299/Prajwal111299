@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prajwal111299
-- 👀 I’m interested in Data Science & Analytics opportunities
-- 🏛️ I’m currently working as an ML Intern @ ScriptEdge Pvt. Ltd.
+- 👀 I’m interested in Artificial Intelligence, Data Science & Analytics opportunities
+- 🏛️ I’m currently working as -
 - 💞️ I’m looking to connect on Projects and Research opportunities
 - 🌆 My current location is New Delhi, India
 - 📫 How to reach me - prajwalkumar111299@gmail.com
